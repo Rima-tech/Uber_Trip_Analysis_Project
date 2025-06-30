@@ -1,4 +1,4 @@
-
+![Uber Logo](https://github.com/Rima-tech/Uber_Trip_Analysis_Project/blob/49bd8c64b5f99e6146eac059818803ae08d6908e/Uber_logo.png)
 # 🚖 Uber Trip Analysis – Power BI Dashboard
 
 
@@ -23,7 +23,7 @@ This project aims to analyze Uber trip data from **June 2024** to uncover insigh
 
 ## 📍 1. Overview Analysis
 
-![Overview Page](./screenshots/overview_page.png)
+![Overview Page](https://github.com/Rima-tech/Uber_Trip_Analysis_Project/blob/49bd8c64b5f99e6146eac059818803ae08d6908e/Uber_Overview%20Page.png)
 <!-- Or use a GIF if available: ![Overview Demo](./assets/overview_demo.gif) -->
 
 ### 🔑 Key Elements:
@@ -66,7 +66,7 @@ These insights can help Uber make better decisions about where to send more driv
 
 ## ⏱️ 2. Time Analysis
 
-![Time Analysis Page](./screenshots/time_analysis_page.png)
+![Time Analysis Page](https://github.com/Rima-tech/Uber_Trip_Analysis_Project/blob/49bd8c64b5f99e6146eac059818803ae08d6908e/Uber_Time_Analysis.png)
 
 ### 🔑 Key Elements:
 - **Visuals:**
@@ -83,7 +83,7 @@ By looking at these patterns, the team can make smarter decisions about driver a
 
 ## 📊 3. Detail Page
 
-![Detail Page](./screenshots/detail_page.png)
+![Detail Page](https://github.com/Rima-tech/Uber_Trip_Analysis_Project/blob/49bd8c64b5f99e6146eac059818803ae08d6908e/Uber_Detail_page.png)
 
 ### 🔑 Key Elements:
 - **Trip Table:** Pickup Date ,Pickup Time, Location, Vehicle, Distance, Fare.
