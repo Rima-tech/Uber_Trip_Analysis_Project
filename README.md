@@ -9,7 +9,7 @@ This project aims to analyze Uber trip data from **June 2024** to uncover insigh
 
 ## 🗃️ Dataset Overview
 
-- **Source:** Keggle (Link - )
+- **Source:** Keggle 
 - **Total Tables Used:** 2  
   1. **Trip Detail Table**  
      - Columns: Trip ID, Pickup Time, Drop Off Time, passenger_count, trip_distance, PULocationID, DOLocationID, fare_amount, Surge Fee, Vehicle, Payment_type
