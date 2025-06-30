@@ -24,7 +24,7 @@ This project aims to analyze Uber trip data from **June 2024** to uncover insigh
 ## 📍 1. Overview Analysis
 
 ![Overview Page](https://github.com/Rima-tech/Uber_Trip_Analysis_Project/blob/49bd8c64b5f99e6146eac059818803ae08d6908e/Uber_Overview%20Page.png)
-<!-- Or use a GIF if available: ![Overview Demo](./assets/overview_demo.gif) -->
+![Overview Demo](https://github.com/Rima-tech/Uber_Trip_Analysis_Project/blob/9fe8a1fa23e7db5f901f4ed4147c4b2d6724ebbe/uber_overview.mp4)
 
 ### 🔑 Key Elements:
 
